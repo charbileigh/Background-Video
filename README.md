@@ -13,6 +13,7 @@ This application enables users to embed a video background into their website, a
 
 ## Screenshots
 
+![the beach](https://github.com/charbileigh/Background-Video/assets/44195461/560af4b3-8e68-417e-8a4d-68f332e7ec64)
 
 
 ## Tech Stack
